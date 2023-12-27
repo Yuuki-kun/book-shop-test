@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.amigos.authenautho.demo.BookShopV1DemoTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.018 s - in com.amigos.authenautho.demo.BookShopV1DemoTests
